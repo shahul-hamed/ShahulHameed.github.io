@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shahul-hamed
-- 👀 I’m interested in mobile application development
-- 🌱 I’m currently working as flutter developer ...
+- 👀 I’m interested in Mobile application development
+- 🌱 I’m currently working as Senior Flutter Developer ...
 - 💞️ I’m looking to collaborate on business experts
 - 📫 How to reach me shahul5.it@gmail.com this is my professional mail id
 
