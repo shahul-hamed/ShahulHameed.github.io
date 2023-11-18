@@ -76388,7 +76388,7 @@ o.r=A.apC()
 s=p.id
 s===$&&A.b()
 s.M(0,o.gtZ())
-p.k2=o}return new A.wW(new A.xi(new A.Z6(p.gafK(),!1),o,"Shahul CV",q,!1,r),r)}}
+p.k2=o}return new A.wW(new A.xi(new A.Z6(p.gafK(),!1),o,"Shahul hameed CV",q,!1,r),r)}}
 A.ww.prototype={
 ah(){var s=null,r=t.C
 return new A.Q_(new A.bq(s,t.sW),A.Ls(),A.a([new A.oe("Home",new A.bq(s,r),!0),new A.oe("About",new A.bq(s,r),!1),new A.oe("Skills",new A.bq(s,r),!1),new A.oe("Projects",new A.bq(s,r),!1)],t.yh),s,s,B.k)}}
