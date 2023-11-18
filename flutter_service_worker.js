@@ -63,8 +63,8 @@ const RESOURCES = {"assets/AssetManifest.json": "1a1de9684175f20e94ec9aabb49dcdd
 "icons/loader.gif": "dafa4436fac90d439006f6080703fcd8",
 "icons/logo.png": "11da72f7a45ce3ee1ff3c5e767e1153f",
 "icons/logo1.png": "1dcb780b91dde71f6dc0a9d7d628d94e",
-"index.html": "faa5680ea46571034185989791c75c52",
-"/": "faa5680ea46571034185989791c75c52",
+"index.html": "f1fd72a898e9723c7c08358934407ae9",
+"/": "f1fd72a898e9723c7c08358934407ae9",
 "main.dart.js": "df58a12d132105eda61acf70b3f8948d",
 "manifest.json": "cc42d444be5c7328b7ea47176e64b22f",
 "version.json": "e5c3a2e7c6ad8ca9d4b1da1be392d211"};
